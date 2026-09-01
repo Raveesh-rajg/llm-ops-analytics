@@ -1,4 +1,4 @@
-# TokenLedger — LLM Operations & AI Spend Analytics
+# AI Spend & Reliability Control | Cost, quality, and failure analytics
 
 FinOps + quality analytics ON an AI system: every LLM call traced to
 OpenTelemetry GenAI semantic conventions, landed in a DuckDB warehouse, and
